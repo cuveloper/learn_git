@@ -5,9 +5,11 @@
 
 ***
 
-# 문서의 시작은 목차 : INDEX
+## 문서의 시작은 목차 : INDEX
 1. commit
 
-# 삽질에 도움 주신 랜선 사수
+## 삽질에 도움 주신 랜선 사수
 - 마크다운 사용법에 대하여: [ihoneymon](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 - 깃, 깃헙에 대한 개괄 이론: [milooy](https://www.slideshare.net/jayjin0427/git-github-145104268)
+
+### 1.branch 브랜치: 평행세계
